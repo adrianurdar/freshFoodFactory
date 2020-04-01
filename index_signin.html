@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!-- Latest compiled and minified CSS -->
+	<!-- ver 4 nu suport IE 9 in jos, deci momentan folosim 3 -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> 
+
+	<!-- jQuery library -->
+	<script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	
+	<script>
+	
+		$(document).ready(function(){
+		$("#postdata").click(function(){ 
+			
+		postnume=$("#firstName").val();
+		postprenume=$("#lastName").val();
+		posttelefon=$("#telefon").val();
+		postadresa=$("#address").val();
+
+
+				$.post("post-forms.php", {nume:postnume, prenume:postprenume, telefon:posttelefon, adresa:postadresa },function(postresult){
+				$("#postdiv").html(postresult);
+				});
+
+		});
+		});
+		$(document).ready(function(){
+		$("#senddata").click(function(){ 
+				$.post("send_sms.php",function(postresult){
+				$("#smsdiv").html(postresult);
+				});
+
+		});
+		});
+		
+		 function disableSubmit() {
+		  document.getElementById("postdata").disabled = true;
+		 }
+
+		  function activateButton(element) {
+
+			  if(element.checked) {
+				document.getElementById("postdata").disabled = false;
+			   }
+			   else  {
+				document.getElementById("postdata").disabled = true;
+			  }
+
+		  }
+  
+	</script>
+	
+	<style>
+	#postdiv{
+    margin-left: 50px;
+    width:30%;
+    background-color:#eee;
+	}   
+	</style>
+	
+    <title>Comanda 3F</title>
+  </head>
+  <body>
+    <h1>Fresh Food Factory</h1>
+
+   <div class="col-md-8 order-md-1">
+      <h4 class="mb-3">Date livrare</h4>
+      <form class="needs-validation" novalidate">
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="firstName">Nume</label>
+            <input type="text" class="form-control" id="firstName" placeholder="" value="Neica" required>
+            <div class="invalid-feedback">
+              Valid first name is required.
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="lastName">Prenume</label>
+            <input type="text" class="form-control" id="lastName" placeholder="" value="Nimeni" required>
+            <div class="invalid-feedback">
+              Valid last name is required.
+            </div>
+          </div>
+        </div>
+        <div class="row">
+			<div class="col-md-6 mb-3">
+			  <label for="username">Porecla/username</label>
+			  <div class="input-group">
+				<input type="text" class="form-control" id="username" placeholder="Username" required>
+				<div class="invalid-feedback" style="width: 100%;">
+				  Your username is required.
+				</div>
+			  </div>
+			</div>
+			<div class="col-md-6 mb-3">
+			  <label for="username">Telefon</label>
+			  <div class="input-group">
+				<input type="text" class="form-control" id="telefon" placeholder="Telefon" required>
+				<div class="invalid-feedback" style="width: 100%;">
+				  Your telefon is required.
+				</div>
+			  </div>
+			</div>
+          </div>
+		
+        <div class="mb-3">
+          <label for="email">Email <span class="text-muted">(Optional)</span></label>
+          <input type="email" class="form-control" id="email" placeholder="you@example.com">
+          <div class="invalid-feedback">
+            Please enter a valid email address for shipping updates.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="address">Address</label>
+          <input type="text" class="form-control" id="address" placeholder="1234 Main St" required>
+          <div class="invalid-feedback">
+            Please enter your shipping address.
+          </div>
+        </div>
+        <div class="checkbox">
+			<body onload="disableSubmit()">
+			 <input type="checkbox" name="terms" id="terms" onchange="activateButton(this)"> I Agree Terms & Coditions
+			</body>
+		</div>
+		</form>
+    </div>
+			<button id="postdata" class="btn btn-primary btn-lg btn-block" type="submit">Inregistrare</button>
+	
+		<div id="postdiv"><h3>You entered following data!</h3></div>
+		<button id="senddata" class="btn btn-primary btn-lg btn-block" type="submit">Trimite SMS</button>
+		<div id="smsdiv"><h3>SMS trimise</h3></div>
+
+  </body>
+</html>

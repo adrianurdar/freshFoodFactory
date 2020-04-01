@@ -1,0 +1,586 @@
+[11-Dec-2019 20:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:59:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 20:59:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[11-Dec-2019 21:00:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[12-Dec-2019 05:49:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database '3fdatabase' in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 7
+[12-Dec-2019 05:57:06 UTC] PHP Notice:  Undefined variable: conn in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 34
+[12-Dec-2019 05:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 34
+[07-Jan-2020 13:54:11 UTC] PHP Warning:  require(C:\TEMP\Anteprenor\Bootstrap\sait/vendor/autoload.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 2
+[07-Jan-2020 13:54:11 UTC] PHP Fatal error:  require(): Failed opening required 'C:\TEMP\Anteprenor\Bootstrap\sait/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 2
+[07-Jan-2020 14:38:05 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\EnvironmentException: SSL certificate problem: unable to get local issuer certificate in C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Http\CurlClient.php:41
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Rest\Client.php(217): Twilio\Http\CurlClient->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Domain.php(62): Twilio\Rest\Client->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Version.php(56): Twilio\Domain->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#3 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Version.php(208): Twilio\Version->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#4 C:\TEMP\Anteprenor\Boo in C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Http\CurlClient.php on line 41
+[07-Jan-2020 14:43:45 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 4
+[07-Jan-2020 14:44:17 UTC] PHP Warning:  require(C:\TEMP\Anteprenor\Bootstrap\sait/vendor/autoload.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 2
+[07-Jan-2020 14:44:17 UTC] PHP Fatal error:  require(): Failed opening required 'C:\TEMP\Anteprenor\Bootstrap\sait/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 2
+[07-Jan-2020 14:45:20 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\EnvironmentException: SSL certificate problem: unable to get local issuer certificate in C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Http\CurlClient.php:41
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Rest\Client.php(217): Twilio\Http\CurlClient->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Domain.php(62): Twilio\Rest\Client->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Version.php(56): Twilio\Domain->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#3 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Version.php(208): Twilio\Version->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#4 C:\TEMP\Anteprenor\Boo in C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Http\CurlClient.php on line 41
+[07-Jan-2020 15:02:09 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\EnvironmentException: SSL certificate problem: unable to get local issuer certificate in C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Http\CurlClient.php:41
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Rest\Client.php(217): Twilio\Http\CurlClient->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Domain.php(62): Twilio\Rest\Client->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Version.php(56): Twilio\Domain->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#3 C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Version.php(208): Twilio\Version->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#4 C:\TEMP\Anteprenor\Boo in C:\TEMP\Anteprenor\Bootstrap\sait\twilio-php-master\src\Twilio\Http\CurlClient.php on line 41
+[07-Jan-2020 15:04:26 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\EnvironmentException: SSL certificate problem: unable to get local issuer certificate in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Http\CurlClient.php:41
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Rest\Client.php(217): Twilio\Http\CurlClient->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Domain.php(62): Twilio\Rest\Client->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(56): Twilio\Domain->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#3 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(208): Twilio\Version->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#4 C:\TEMP\Anteprenor\Boo in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Http\CurlClient.php on line 41
+[07-Jan-2020 15:04:55 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\EnvironmentException: SSL certificate problem: unable to get local issuer certificate in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Http\CurlClient.php:41
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Rest\Client.php(217): Twilio\Http\CurlClient->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Domain.php(62): Twilio\Rest\Client->request('POST', 'https://api.twi...', Array, Array, Array, 'AC9fac14bfead3a...', '599b56d15c9f508...', NULL)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(56): Twilio\Domain->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#3 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(208): Twilio\Version->request('POST', '2010-04-01/Acco...', Array, Array, Array, NULL, NULL, NULL)
+#4 C:\TEMP\Anteprenor\Boo in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Http\CurlClient.php on line 41
+[08-Jan-2020 07:22:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 49
+[08-Jan-2020 07:23:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 34
+[08-Jan-2020 07:24:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 34
+[08-Jan-2020 07:24:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 35
+[08-Jan-2020 07:24:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 43
+[08-Jan-2020 07:24:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 44
+[08-Jan-2020 07:29:03 UTC] PHP Parse error:  syntax error, unexpected ''body' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 55
+[08-Jan-2020 07:31:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 55
+[11-Jan-2020 21:18:37 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +4 is not a valid phone number. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php:85
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(64): Twilio\Version->create('POST', '/Accounts/AC9fa...', Array, Array)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(58): Twilio\Rest\Api\V2010\Account\MessageList->create('+4', Object(Twilio\Values))
+#3 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php on line 85
+[13-Jan-2020 22:19:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'freshfoo_admin'@'79.118.149.40' (using password: YES) in C:\TEMP\Anteprenor\Bootstrap\sait\post-forms.php on line 9
+[14-Jan-2020 19:29:19 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:29:19 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:29:19 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:29:56 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:29:56 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:29:56 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:34:24 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:34:24 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:34:24 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:34:50 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:34:50 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:34:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:36:07 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:36:07 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:36:07 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:36:28 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:36:28 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:36:36 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:36:36 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:36:36 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:37:11 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[14-Jan-2020 19:37:11 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 92
+[14-Jan-2020 19:37:11 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 98
+[14-Jan-2020 19:48:23 UTC] PHP Notice:  Undefined variable: sql in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 34
+[14-Jan-2020 19:49:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 37
+[14-Jan-2020 19:50:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 37
+[14-Jan-2020 19:55:50 UTC] PHP Notice:  Undefined variable: link in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 32
+[14-Jan-2020 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 32
+[14-Jan-2020 19:57:33 UTC] PHP Notice:  Undefined variable: link in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 32
+[14-Jan-2020 19:57:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 32
+[14-Jan-2020 19:58:03 UTC] PHP Notice:  Undefined variable: link in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 19:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:01:14 UTC] PHP Notice:  Undefined variable: link in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:01:31 UTC] PHP Notice:  Undefined variable: link in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:01:37 UTC] PHP Notice:  Undefined variable: link in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 33
+[14-Jan-2020 20:15:15 UTC] PHP Warning:  Use of undefined constant post_email - assumed 'post_email' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 15
+[14-Jan-2020 20:24:53 UTC] PHP Warning:  Use of undefined constant debugger - assumed 'debugger' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[14-Jan-2020 20:24:59 UTC] PHP Warning:  Use of undefined constant debugger - assumed 'debugger' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[14-Jan-2020 20:25:22 UTC] PHP Warning:  Use of undefined constant debugger - assumed 'debugger' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[14-Jan-2020 20:27:34 UTC] PHP Notice:  Undefined index: password in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 11
+[15-Jan-2020 14:30:47 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ';' or ',' in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 23
+[15-Jan-2020 15:08:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[15-Jan-2020 15:08:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[15-Jan-2020 15:08:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[15-Jan-2020 15:09:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 14
+[15-Jan-2020 15:09:20 UTC] PHP Notice:  Undefined variable: GhtbRQJMJtILqV4zF8 in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 17
+[15-Jan-2020 15:19:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ';' or ',' in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[15-Jan-2020 15:19:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[15-Jan-2020 15:19:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[15-Jan-2020 15:20:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 20
+[15-Jan-2020 15:30:17 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +4 is not a valid phone number. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php:85
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(64): Twilio\Version->create('POST', '/Accounts/AC9fa...', Array, Array)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(58): Twilio\Rest\Api\V2010\Account\MessageList->create('+4', Object(Twilio\Values))
+#3 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php on line 85
+[15-Jan-2020 15:30:24 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +4 is not a valid phone number. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php:85
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Rest\Api\V2010\Account\MessageList.php(64): Twilio\Version->create('POST', '/Accounts/AC9fa...', Array, Array)
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(58): Twilio\Rest\Api\V2010\Account\MessageList->create('+4', Object(Twilio\Values))
+#3 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\twilio\sdk\src\Twilio\Version.php on line 85
+[15-Jan-2020 18:30:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 3
+[15-Jan-2020 19:05:52 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 5
+[15-Jan-2020 19:22:13 UTC] PHP Notice:  Undefined index: is_logged_in in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 4
+[15-Jan-2020 19:23:19 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\TEMP\Anteprenor\Bootstrap\sait\signin.php on line 23
+[15-Jan-2020 19:23:58 UTC] PHP Notice:  Undefined index: is_logged_in in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 4
+[15-Jan-2020 19:47:04 UTC] PHP Notice:  Undefined variable: conn in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 25
+[15-Jan-2020 19:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 25
+[15-Jan-2020 19:48:02 UTC] PHP Notice:  Undefined variable: conn in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 94
+[15-Jan-2020 19:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 94
+[15-Jan-2020 20:04:45 UTC] PHP Notice:  Undefined variable: conn in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 121
+[15-Jan-2020 20:04:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php:121
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 121
+[15-Jan-2020 20:06:03 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 57
+[15-Jan-2020 20:07:30 UTC] PHP Notice:  Undefined variable: conn in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 124
+[15-Jan-2020 20:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php:124
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 124
+[15-Jan-2020 20:14:21 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 32
+[15-Jan-2020 20:15:10 UTC] PHP Parse error:  syntax error, unexpected 'container' (T_STRING), expecting ';' or ',' in C:\TEMP\Anteprenor\Bootstrap\sait\servicesadmin.php on line 32
+[17-Jan-2020 18:18:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 49
+[17-Jan-2020 18:18:31 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 18:18:32 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\RequestException: cURL error 60: SSL certificate problem: unable to get local issuer certificate (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php:201
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php(155): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php(105): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlMultiHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlMultiHandler.php(201): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlMultiHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 C:\TEMP\Ante in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\php-http\guzzle6-adapter\src\Promise.php on line 136
+[17-Jan-2020 18:24:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:25:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:29:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:29:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:30:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:37:49 UTC] PHP Warning:  require_once(C:\TEMP\Anteprenor\Bootstrap\sait/../config.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 3
+[17-Jan-2020 18:37:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\TEMP\Anteprenor\Bootstrap\sait/../config.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 3
+[17-Jan-2020 18:38:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:44:24 UTC] PHP Warning:  require_once(C:\TEMP\Anteprenor\Bootstrap\sait/../config.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 2
+[17-Jan-2020 18:44:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\TEMP\Anteprenor\Bootstrap\sait/../config.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 2
+[17-Jan-2020 18:44:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:53:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:53:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:53:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Nexmo\Client\Credentials\Basic' not found in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php on line 28
+[17-Jan-2020 18:54:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 18:57:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:03:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:03:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:03:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:03:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:03:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:20:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:25:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:25:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:34:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Nexmo\Entity\JsonSerializableInterface' not found in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php:10
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\send_sms.php(3): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\nexmo\client-core\src\Account\Config.php on line 10
+[17-Jan-2020 19:36:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in C:\TEMP\Anteprenor\Bootstrap\sait\config.php:4
+Stack trace:
+#0 C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php(2): require_once()
+#1 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\config.php on line 4
+[17-Jan-2020 19:39:53 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 3
+[17-Jan-2020 19:39:53 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 3
+[17-Jan-2020 19:40:29 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 3
+[17-Jan-2020 19:40:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 3
+[17-Jan-2020 19:40:30 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 3
+[17-Jan-2020 19:40:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 3
+[17-Jan-2020 19:41:25 UTC] PHP Warning:  Use of undefined constant NEXMO_API_KEY - assumed 'NEXMO_API_KEY' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 6
+[17-Jan-2020 19:41:25 UTC] PHP Warning:  Use of undefined constant NEXMO_API_SECRET - assumed 'NEXMO_API_SECRET' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 6
+[17-Jan-2020 19:41:25 UTC] PHP Warning:  Use of undefined constant TO_NUMBER - assumed 'TO_NUMBER' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 10
+[17-Jan-2020 19:41:26 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:42:19 UTC] PHP Warning:  Use of undefined constant TO_NUMBER - assumed 'TO_NUMBER' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\test_sms.php on line 12
+[17-Jan-2020 19:42:19 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:42:55 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:52:36 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:52:38 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:54:27 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:57:07 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 19:57:23 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:04:08 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:04:09 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:04:09 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:04:50 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:04:51 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:04:51 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:05:17 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:05:18 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:05:18 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:07:53 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:07:53 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:07:53 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:07:55 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:07:56 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:07:56 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:10:56 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:10:57 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:10:57 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:21:09 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:21:10 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:21:10 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:23:54 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:23:54 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:23:55 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:37:05 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:37:06 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[17-Jan-2020 20:37:06 UTC] PHP Warning:  curl_setopt_array(): Unable to create temporary file. in C:\TEMP\Anteprenor\Bootstrap\sait\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 59
+[11-Feb-2020 20:17:35 UTC] PHP Warning:  A non-numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 26
+[11-Feb-2020 20:17:58 UTC] PHP Warning:  A non-numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 24
+[11-Feb-2020 20:19:52 UTC] PHP Warning:  A non-numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 24
+[11-Feb-2020 20:36:29 UTC] PHP Notice:  Undefined variable: str in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 24
+[11-Feb-2020 20:37:30 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in C:\TEMP\Anteprenor\Bootstrap\sait\order.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 25
+[11-Feb-2020 20:58:02 UTC] PHP Notice:  Undefined index: price in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 19
+[11-Feb-2020 20:59:42 UTC] PHP Notice:  Undefined index: price in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 19
+[11-Feb-2020 20:59:54 UTC] PHP Notice:  Undefined offset: 1 in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 19
+[11-Feb-2020 21:20:39 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 25
+[11-Feb-2020 22:02:19 UTC] PHP Notice:  Undefined index: quantity in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 18
+[11-Feb-2020 22:08:10 UTC] PHP Notice:  Undefined index: quantity in C:\TEMP\Anteprenor\Bootstrap\sait\order.php on line 18
+[15-Feb-2020 19:49:06 UTC] PHP Parse error:  syntax error, unexpected '&' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 41
+[15-Feb-2020 19:49:30 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 45
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  Use of undefined constant post_q3F - assumed 'post_q3F' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 43
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  A non-numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 45
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 45
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  Use of undefined constant post_qBacon - assumed 'post_qBacon' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 47
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 49
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  Use of undefined constant post_qVeggie - assumed 'post_qVeggie' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 51
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 53
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  Use of undefined constant post_qSalami - assumed 'post_qSalami' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 55
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 57
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  Use of undefined constant post_qTonno - assumed 'post_qTonno' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 59
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 61
+[15-Feb-2020 19:49:57 UTC] PHP Warning:  Use of undefined constant post_qCaprese - assumed 'post_qCaprese' (this will throw an Error in a future version of PHP) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 63
+[15-Feb-2020 19:49:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 65
+[15-Feb-2020 19:50:56 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 19:50:56 UTC] PHP Warning:  A non-numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 45
+[15-Feb-2020 19:50:56 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 45
+[15-Feb-2020 19:50:56 UTC] PHP Notice:  A non well formed numeric value encountered in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 53
+[15-Feb-2020 19:53:22 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 19:54:43 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 19:55:09 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 19:56:04 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 19:56:05 UTC] PHP Notice:  Undefined index: email in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 24
+[15-Feb-2020 20:21:26 UTC] PHP Fatal error:  Uncaught Error: Class 'SendGrid\Mail\Mail' not found in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 82
+[15-Feb-2020 20:38:28 UTC] PHP Parse error:  syntax error, unexpected '"' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 6
+[15-Feb-2020 20:38:42 UTC] PHP Parse error:  syntax error, unexpected '"' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 6
+[15-Feb-2020 20:41:22 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING) in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 6
+[22-Feb-2020 15:44:31 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 38
+[22-Feb-2020 15:44:52 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 38
+[22-Feb-2020 15:45:05 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 38
+[22-Feb-2020 16:00:15 UTC] PHP Notice:  Undefined variable: mesaj in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 92
+[22-Feb-2020 17:36:55 UTC] PHP Notice:  Undefined index: adresa in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 26
+[22-Feb-2020 17:45:30 UTC] PHP Notice:  Undefined index: postdetalii in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 28
+[22-Feb-2020 17:47:08 UTC] PHP Notice:  Undefined index: postdetalii in C:\TEMP\Anteprenor\Bootstrap\sait\post-comanda.php on line 28
